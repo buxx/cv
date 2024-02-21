@@ -4,9 +4,9 @@
 
 #cvEntry(
     title: [Développeur],
-    society: [Algoo],
-    date: [2015 - Aujourd'hui],
-    location: [Moirans (Grenoble), Isère],
+    society: [Mission],
+    date: [2016 - Aujourd'hui],
+    location: [Grenoble, Isère],
     description: list(
       [Portage en tant que développeur sénior chez un constructeur de logiciel embarqué de mesure scientifique. #list(
         [Développement du logiciel de contrôle et de l'interface utilisateur.],
@@ -14,6 +14,15 @@
         [Amélioration de l'environnement de tests e2e.]
         )
       ],
+    )
+)
+
+#cvEntry(
+    title: [Développeur],
+    society: [Algoo],
+    date: [2015 - Aujourd'hui],
+    location: [Moirans (Grenoble), Isère],
+    description: list(
       [Référents des différentes piles techniques utilisées dans l'entreprise.],
       [Développeur backend sur le logiciel libre Tracim.],
       [Formateur Rust. Animateur d'atelier et de conférences techniques.],

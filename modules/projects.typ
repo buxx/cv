@@ -58,7 +58,7 @@
   location: [rolling.bux.fr],
   description: list(
     [Backend API HTTP, Websockets. Intégration "ingame" avec le logiciel Tracim.],
-    [Moteur de rendu 2D. Interfaces utilisateurs généré d'après un protocole normalisé.]
+    [Moteur de rendu 2D. Interfaces utilisateurs générés d'après un protocole normalisé.]
   ),
   tags: ("Architecture", "Conception", "Développement", "Python", "Rust", "PostgreSQL", "API HTTP", "2D", "Macroquad", "WebAssembly")
 )
