@@ -9,7 +9,7 @@
 )
 
 #let headerQuoteInternational = (
-  "": [Développeur et concepteur de logiciels],
+  "": [Développeur spécialisé dans l'open source depuis 15 ans],
 )
 
 #let cvFooterInternational = (

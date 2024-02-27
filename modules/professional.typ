@@ -3,81 +3,66 @@
 #cvSection("Expérience Professionnelle", highlighted: true, letters: 3)
 
 #cvEntry(
-    title: [Développeur],
-    society: [Mission],
-    date: [2016 - Aujourd'hui],
-    location: [Grenoble, Isère],
-    description: list(
-      [Portage en tant que développeur sénior chez un constructeur de logiciel embarqué de mesure scientifique. #list(
-        [Développement du logiciel de contrôle et de l'interface utilisateur.],
-        [Construction de la CI.],
-        [Amélioration de l'environnement de tests e2e.]
-        )
-      ],
-    )
-)
-
-#cvEntry(
-    title: [Développeur],
-    society: [Algoo],
+    title: [Algoo],
+    society: [],
     date: [2015 - Aujourd'hui],
     location: [Moirans (Grenoble), Isère],
+    vdiff: -6pt,
     description: list(
-      [Référents des différentes piles techniques utilisées dans l'entreprise.],
-      [Développeur backend sur le logiciel libre Tracim.],
-      [Formateur Rust. Animateur d'atelier et de conférences techniques.],
-      [Création de tunnel de paiement interconnecté avec Dolibarr.]
+      [Conception et développement d'un logiciel de mesure scientifique embarqué.],
+      [Collaboration étroite avec les équipes UX/UI et de logiciels anexes.],
+      [Construction d'environnements de contrôle qualité.],
+      [Développement backend sur le logiciel Tracim.],
+      [Formation et animation d'ateliers et conférences.],
     )
 )
 
 #cvEntry(
-    title: [Auto-entrepreneur],
+    title: [Auto-Entreprenariat],
     society: [],
     date: [2010 - Aujourd'hui],
     location: [],
+    vdiff: -6pt,
     description: list(
-      [Gestion de projet : Plateforme d'inscription et paiement en ligne.],
-      [Administration système : hébergement web.],
-      [Développement logiciel : Analyse émotionelle d'une classe avec tableau de bord et données anonymisés (Preuve de concept)]
+      [Gestion de projet & Programmation logicielle : GEM Altigliss Challenge.],
+      [Programmation logicielle : mesure émotionelle anonymisé d'un auditoire (École de management de Grenoble)],
+      [Administration système & hébergement web.],
     )
+    
 )
 
 #cvEntry(
-    title: [Développeur et intégrateur],
-    society: [XSALTO],
+    title: [XSALTO],
+    society: [],
     date: [2013 - 2015],
     location: [Digne-les-Bains, Alpes-de-haute-Provence],
+    vdiff: -6pt,
     description: list(
-      [Développements du framework open source interne (console SEOLAN).],
-      [Évolution du framework SEOLAN pour la mise en place de tests automatiques.],
-      [Réalisation de sites webs et de plateforme e-commerce #list(
-        [Fédération des clubs alpins de montagne.],
-        [yndicat Mixte Montagne Ardéchoise.],
-        [Rossignol/Dynastar/Lange/Look.],
-        )
-      ],
+      [Développement du framework web.],
+      [Réalisation de sites web et de plateformes e-commerce.],
     )
 )
 
 #cvEntry(
-    title: [Développeur web],
-    society: [“Vous avez choisi ?” et “Sport Easy”],
+    title: [“Vous avez choisi ?” & “Sport Easy”],
+    society: [],
     date: [2010-2011],
     location: [Paris (Télétravail complet)],
+    vdiff: -6pt,
     description: list(
-      [Développement d'une plateforme d'organisation de recontre sportives pour les entreprises.],
-      [Développement d'une plateforme de commande de repas.],
+      [Développement d'une plateforme d'organisation de recontres sportives.],
+      [Développement d'une plateforme de commandes de repas.],
     )
 )
 
-#cvEntry(
-    title: [Développement web],
-    society: [IDOS Informatique],
-    date: [2009],
-    location: [Chateau-arnoux-Saint-Auban, Alpes-de-haute-Provence],
-    description: list(
-      [Développement d’applications orientées web],
-      [Installation du cablage réseau en entreprise et bâtiments publics],
-    )
-)
+// #cvEntry(
+//     title: [IDOS Informatique],
+//     society: [],
+//     date: [2009],
+//     location: [Chateau-arnoux-Saint-Auban, Alpes-de-haute-Provence],
+//     description: list(
+//       [Développement d’applications orientées web.],
+//       [Installations réseaux.],
+//     )
+// )
 

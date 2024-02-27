@@ -3,8 +3,9 @@
 
 #cvHeader(hasPhoto: false, align: left)
   #autoImport("skills")
-  #autoImport("professional")
-  #autoImport("education")
-  #pagebreak()
+  #v(-6pt)
   #autoImport("projects")
+  #autoImport("professional")
+  #v(6pt)
+  #autoImport("education")
 #cvFooter()
