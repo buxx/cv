@@ -17,7 +17,7 @@
       #text(style: "italic", "tracim.fr") #text(style: "italic", "                                                                                                             2015→2018")
     ]
   ),
-  tags: ("Architecture", "Python", "Pyramid", "API HTTP", "PostgreSQL", "MySQL", "SQlite", "React", "Redis", "Pushpin", "aiohttp", "TypeScript", "Angular", "Architecture orientée services", "QA", "Intégration continue", "Haute performance", "Gitlab-ci", "Jenkins", "Packaging", "Docker")
+  tags: ("Architecture", "Python", "Pyramid", "API HTTP", "PostgreSQL", "MySQL", "SQlite", "React", "Redis", "Pushpin", "aiohttp", "TypeScript", "Angular", "Architecture orientée services", "QA", "Intégration continue", "Haute performance", "Gitlab-ci", "Jenkins", "Packaging", "Docker", "Ansible", "Cypress")
 )
 
 #cvEntry(
