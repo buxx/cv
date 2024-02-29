@@ -24,9 +24,9 @@
     location: [],
     vdiff: -6pt,
     description: list(
-      [Gestion de projet & Programmation logicielle : GEM Altigliss Challenge.],
-      [Programmation logicielle : mesure émotionelle anonymisé d'un auditoire (École de management de Grenoble)],
-      [Administration système & hébergement web.],
+      [Gestion de projet et programmation logicielle : GEM Altigliss Challenge.],
+      [Programmation logicielle : mesure des émotions et réactions d'un auditoire en temps réel (École de management de Grenoble)],
+      [Administration système et hébergement web.],
     )
     
 )
@@ -44,7 +44,7 @@
 )
 
 #cvEntry(
-    title: [“Vous avez choisi ?” & “Sport Easy”],
+    title: [“Vous avez choisi ?” et “Sport Easy”],
     society: [],
     date: [2010-2011],
     location: [Paris (Télétravail complet)],

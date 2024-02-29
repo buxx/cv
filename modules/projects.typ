@@ -1,7 +1,7 @@
 #import "../brilliant-CV/template.typ": *
 #import "../src/utils.typ": *
 
-#cvSection("Projets", highlighted: true, letters: 3)
+#cvSection("Réalisations", highlighted: true, letters: 3)
 
 #cvEntry(
   title: [Logiciels métiers],
@@ -17,7 +17,7 @@
       #text(style: "italic", "tracim.fr") #text(style: "italic", "                                                                                                             2015→2018")
     ]
   ),
-  tags: ("Architecture", "Python", "Pyramid", "API HTTP", "PostgreSQL", "MySQL", "SQlite", "React", "Redis", "Pushpin", "aiohttp", "TypeScript", "Angular", "Architecture orientée services", "QA", "Intégration continue", "Haute performance", "Gitlab-ci", "Jenkins", "Packaging")
+  tags: ("Architecture", "Python", "Pyramid", "API HTTP", "PostgreSQL", "MySQL", "SQlite", "React", "Redis", "Pushpin", "aiohttp", "TypeScript", "Angular", "Architecture orientée services", "QA", "Intégration continue", "Haute performance", "Gitlab-ci", "Jenkins", "Packaging", "Docker")
 )
 
 #cvEntry(
